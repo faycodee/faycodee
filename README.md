@@ -20,8 +20,16 @@ $ npm run dev
     "Backend",
   ]
   }
+  ContactMe{
+    email:faysaloumzil1@gmail.com
+    whatsap:+212 6 13 48 78 14
+    in: "https://www.linkedin.com/in/faycal-oumzil-b97888250/",
+    website: "faycode.netlify.app"
+  }
 
 ```
+ <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faycodee&theme=gruvbox&layout=compact"/>
+
  <br/>
   <h2>🛠 Languages & Tools<h2>
  <p align="left">
@@ -52,15 +60,5 @@ $ npm run dev
                                                                                                                                   
  </p>
 
- <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faycodee&theme=gruvbox&layout=compact"/>
 
- 
- 
-```jsx
-  ContactMe{
-    email:faysaloumzil1@gmail.com
-    whatsap:+212 6 13 48 78 14
-    in: "https://www.linkedin.com/in/faycal-oumzil-b97888250/",
-    website: "faycode.netlify.app"
-  }
-```
+
