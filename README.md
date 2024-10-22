@@ -21,7 +21,7 @@ $ npm run dev
   ]
   }
   ContactMe{
-    email:faysaloumzil1@gmail.com
+    email:"faysaloumzil1@gmail.com",
     whatsap:+212 6 13 48 78 14
     in: "https://www.linkedin.com/in/faycal-oumzil-b97888250/",
     website: "faycode.netlify.app"
