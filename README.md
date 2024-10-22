@@ -4,7 +4,7 @@
 $ npm run dev
 ```
 
-<img align="right" width="470px" height="267px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" width="400px" height="267px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
 
 ```ts
 AboutMe {
