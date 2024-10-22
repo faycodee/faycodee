@@ -1,5 +1,12 @@
- npm run dev
 
+
+```php
+$ npm run dev
+```
+
+<img align="right" width="470px" height="267px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+
+```ts
 AboutMe {
   name: "Faycal Oumzil",
   location: "Fes, Marokko",
@@ -12,7 +19,5 @@ AboutMe {
   in: "https://www.linkedin.com/in/faycal-oumzil-b97888250/",
   website: "faycode.netlify.code"
 }
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966](https://github.com/user-attachments/assets/863cab90-3e2e-42c0-bda4-949ac60baad3)$
+```
 
-
-    
