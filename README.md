@@ -14,8 +14,6 @@ $ npm run dev
    grew from the thrill of solving increasingly
    complex problems, which brings me great satisfaction."
    interests: [
-    "Web Development",
-    "UI/UX",
     "Frontend",
     "Backend",
   ]
