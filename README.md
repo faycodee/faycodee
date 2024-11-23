@@ -29,7 +29,7 @@ $ npm run dev
  <img height="200" width="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faycodee&theme=gruvbox&layout=compact"/>
 
  <br/>
-  <h2>🛠 Languages & Tools<h2>
+  <h2>Languages & Tools<h2>
  <p align="left">
  <img height="35"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
  <img height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
