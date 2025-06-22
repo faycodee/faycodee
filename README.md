@@ -4,7 +4,7 @@
 $ npm run dev
 ```
 
-<img align="right" width="400px" height="267px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
+<img align="right" height="400px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGs4OXl3b2Y2dGFzNm9ubjU1dmJva2JpcnpiOWx2NHVibnFkY2g1biZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/zAo1Zb7X4Zci1Bmd2z/giphy.gif">
 
 ```jsx
  AboutMe {
