@@ -10,12 +10,13 @@ $ npm run dev
  AboutMe {
    name: "Faycal Oumzil",
    location: "Fes, Marokko",
-   whyCoding :"My passion for web development
+   whyCoding :"My passion for IT 
    grew from the thrill of solving increasingly
    complex problems, which brings me great satisfaction."
    interests: [
-    "Frontend",
+    "Data Management",
     "Backend",
+    "Frontend"
   ]
   }
   ContactMe{
